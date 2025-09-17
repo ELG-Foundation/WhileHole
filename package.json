@@ -21,7 +21,7 @@
     "@jofr/capacitor-media-session": "^4.0.0",
     "axios": "^1.8.2",
     "capacitor-music-controls-plugin": "github:ingageco/capacitor-music-controls-plugin",
-    "nuxt": "^3.16.0",
+    "nuxt": "^3.19.0",
     "vue": "latest",
     "vue-router": "latest"
   },
